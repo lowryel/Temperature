@@ -1,0 +1,14 @@
+p{
+    color: rgb(2, 10, 4);
+    font-size: x-large;
+    padding-top: 5%;
+    border-radius: 25%;
+}
+body{
+    background-color: rgb(189, 9, 108);
+    padding-left: 10%;
+}
+.box {
+  display: grid;
+  place-items: center;
+}

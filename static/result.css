@@ -1,0 +1,17 @@
+body {
+  background-color: aqua;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  font-size: xx-large;
+}
+.box {
+  display: grid;
+  place-items: center;
+}
+/* .box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
